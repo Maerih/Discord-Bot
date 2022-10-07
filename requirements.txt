@@ -1,0 +1,3 @@
+Install node.js
+npm i discord.js
+npm i express

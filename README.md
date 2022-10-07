@@ -12,7 +12,7 @@ Own discord bot can be customized to any needs of any Discord Sserver
 
 - Run `nodemon ./index.js` on terminal to activate bot on your server.
 
-![img](bot.img)
+![img](bot.jpg)
 
 - No errors means that the bot is live on your Server.
 
@@ -20,4 +20,4 @@ Own discord bot can be customized to any needs of any Discord Sserver
 
 - Customize to your own commands by editing the `index.js` client.on function to your inquires.
 
-![img](bot1.img)
+![img](bot1.jpg)

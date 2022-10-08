@@ -1,7 +1,9 @@
 # Discord-Bot
 #### Own discord bot can be customized to any needs of any Discord Server
 
-- On your terminal clone repo 'git clone' 
+- On your terminal clone repo `https://github.com/Maerih/Discord-Bot.git`
+
+- Register to all `requirements.txt` lines.
 
 - Move to Discord-Bot folder.
 
